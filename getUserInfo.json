@@ -1,13 +1,5 @@
 {
   "code": 0,
-  "data": {
-    "title": "这个是标题啊",
-    "nickName": "vivian",
-    "name": "",
-    "mobile": "13652412514",
-    "sex": "",
-    "mail": "576544819@qq.com",
-    "password": "123456"
-  },
-  "msg": ""
+  "data": {},
+  "msg": "",
 }
